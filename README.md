@@ -6,4 +6,3 @@ The first file "FOO_ex1.cpp" represents a program that reads 3 points, A, B and 
 
 The second file "FOO_ex2.cpp" represents a program that calculates areas of Squares, Rectangles and Circles.
 
-The third file "FOO_ex3.cpp"
